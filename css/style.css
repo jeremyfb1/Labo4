@@ -1,0 +1,25 @@
+body
+{
+    color: white;
+    background-image: url("../images/cinema.jpg") ;
+    background-size: cover;
+    background-position: center;
+    padding-left: 20px;
+    font-family: 'Arial Narrow Bold', sans-serif;
+} 
+
+.realisateurs
+{
+    list-style: none ;
+    color: yellowgreen; 
+    font-size: 25px;
+}
+.films
+{
+    list-style-type: upper-latin
+
+}
+.acteurs
+{
+    list-style-type: disc;
+}
